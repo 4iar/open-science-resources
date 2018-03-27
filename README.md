@@ -39,6 +39,8 @@
 
 ### Bibliography Management Software
 
+- [Docear](http://www.docear.org/)
+- [JabRef](https://www.jabref.org/)
 - [Mendeley](https://www.mendeley.com/)
 - [Zotero](https://www.zotero.org/)
 
